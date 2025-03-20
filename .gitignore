@@ -1,0 +1,21 @@
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore virtual environment folders
+venv/
+.env/
+*.env
+
+# Ignore cache and compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs and temp files
+logs/
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
